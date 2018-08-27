@@ -9,7 +9,7 @@ module.exports = {
 
   preload: function () {
     this.game.load.bitmapFont('myfont', 'assets/fonts/fontshadow.png', 'assets/fonts/fontshadow.fnt');
-    this.load.image('loadingBar', 'assets/images/load3.png');
+    this.load.image('loadingBar', 'assets/images/loading.png');
     this.load.image('globe', 'assets/images/globe.png');
   },
 
