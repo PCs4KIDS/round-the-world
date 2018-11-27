@@ -1,3 +1,9 @@
+require('pixi');
+require('p2');
+var Phaser = require('phaser');
+var PhaserInput = require('phaser-input');
+
+
 module.exports.createGameInDiv = createGameInDiv;
 
 function createGameInDiv(divId) {
