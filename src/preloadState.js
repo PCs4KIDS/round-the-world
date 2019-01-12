@@ -18,7 +18,7 @@ module.exports = {
     var flagsContext = require.context('../assets/round-the-world/flags', false, /.png$/);
     flagsContext.keys().forEach(key => {
       const lowerCase = key.split('/')[1].replace('.png', '');
-      const name = lowerCase.toUpperCase();
+      const name = lowerCase.toLowerCase();
       this.game.load.image(name, 'assets/round-the-world/flags/' + name + '.png');
     })
 
