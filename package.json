@@ -1,6 +1,6 @@
 {
   "name": "@pcs4kids/round-the-world",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A game for learning facts and information about countries ",
   "main": "dist/round-the-world-game.min.js",
   "scripts": {
