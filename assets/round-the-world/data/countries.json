@@ -1,5 +1,5 @@
 {
-  "AD": {
+  "ad": {
     "name": "Andorra",
     "native": "Andorra",
     "phone": "376",
@@ -17,7 +17,7 @@
       "ca"
     ]
   },
-  "AE": {
+  "ae": {
     "name": "United Arab Emirates",
     "native": "دولة الإمارات العربية المتحدة",
     "phone": "971",
@@ -35,7 +35,7 @@
       "ar"
     ]
   },
-  "AF": {
+  "af": {
     "name": "Afghanistan",
     "native": "افغانستان",
     "phone": "93",
@@ -55,7 +55,7 @@
       "tk"
     ]
   },
-  "AG": {
+  "ag": {
     "name": "Antigua and Barbuda",
     "native": "Antigua and Barbuda",
     "phone": "1268",
@@ -73,7 +73,7 @@
       "en"
     ]
   },
-  "AI": {
+  "ai": {
     "name": "Anguilla",
     "native": "Anguilla",
     "phone": "1264",
@@ -91,7 +91,7 @@
       "en"
     ]
   },
-  "AL": {
+  "al": {
     "name": "Albania",
     "native": "Shqipëria",
     "phone": "355",
@@ -109,7 +109,7 @@
       "sq"
     ]
   },
-  "AM": {
+  "am": {
     "name": "Armenia",
     "native": "Հայաստան",
     "phone": "374",
@@ -128,7 +128,7 @@
       "ru"
     ]
   },
-  "AO": {
+  "ao": {
     "name": "Angola",
     "native": "Angola",
     "phone": "244",
@@ -145,7 +145,7 @@
       "pt"
     ]
   },
-  "AQ": {
+  "aq": {
     "name": "Antarctica",
     "native": "Antarctica",
     "phone": "672",
@@ -161,7 +161,7 @@
     ],
     "languages": []
   },
-  "AR": {
+  "ar": {
     "name": "Argentina",
     "native": "Argentina",
     "phone": "54",
@@ -180,7 +180,7 @@
       "gn"
     ]
   },
-  "AS": {
+  "as": {
     "name": "American Samoa",
     "native": "American Samoa",
     "phone": "1684",
@@ -199,7 +199,7 @@
       "sm"
     ]
   },
-  "AT": {
+  "at": {
     "name": "Austria",
     "native": "Österreich",
     "phone": "43",
@@ -217,7 +217,7 @@
       "de"
     ]
   },
-  "AU": {
+  "au": {
     "name": "Australia",
     "native": "Australia",
     "phone": "61",
@@ -235,7 +235,7 @@
       "en"
     ]
   },
-  "AW": {
+  "aw": {
     "name": "Aruba",
     "native": "Aruba",
     "phone": "297",
@@ -254,7 +254,7 @@
       "pa"
     ]
   },
-  "AX": {
+  "ax": {
     "name": "Aland",
     "native": "Åland",
     "phone": "358",
@@ -272,7 +272,7 @@
       "sv"
     ]
   },
-  "AZ": {
+  "az": {
     "name": "Azerbaijan",
     "native": "Azərbaycan",
     "phone": "994",
@@ -290,7 +290,7 @@
       "az"
     ]
   },
-  "BA": {
+  "ba": {
     "name": "Bosnia and Herzegovina",
     "native": "Bosna i Hercegovina",
     "phone": "387",
@@ -310,7 +310,7 @@
       "sr"
     ]
   },
-  "BB": {
+  "bb": {
     "name": "Barbados",
     "native": "Barbados",
     "phone": "1246",
@@ -328,7 +328,7 @@
       "en"
     ]
   },
-  "BD": {
+  "bd": {
     "name": "Bangladesh",
     "native": "Bangladesh",
     "phone": "880",
@@ -346,7 +346,7 @@
       "bn"
     ]
   },
-  "BE": {
+  "be": {
     "name": "Belgium",
     "native": "België",
     "phone": "32",
@@ -366,7 +366,7 @@
       "de"
     ]
   },
-  "BF": {
+  "bf": {
     "name": "Burkina Faso",
     "native": "Burkina Faso",
     "phone": "226",
@@ -384,7 +384,7 @@
       "ff"
     ]
   },
-  "BG": {
+  "bg": {
     "name": "Bulgaria",
     "native": "България",
     "phone": "359",
@@ -402,7 +402,7 @@
       "bg"
     ]
   },
-  "BH": {
+  "bh": {
     "name": "Bahrain",
     "native": "‏البحرين",
     "phone": "973",
@@ -420,7 +420,7 @@
       "ar"
     ]
   },
-  "BI": {
+  "bi": {
     "name": "Burundi",
     "native": "Burundi",
     "phone": "257",
@@ -439,7 +439,7 @@
       "rn"
     ]
   },
-  "BJ": {
+  "bj": {
     "name": "Benin",
     "native": "Bénin",
     "phone": "229",
@@ -457,7 +457,7 @@
       "fr"
     ]
   },
-  "BL": {
+  "bl": {
     "name": "Saint Barthélemy",
     "native": "Saint-Barthélemy",
     "phone": "590",
@@ -475,7 +475,7 @@
       "fr"
     ]
   },
-  "BM": {
+  "bm": {
     "name": "Bermuda",
     "native": "Bermuda",
     "phone": "1441",
@@ -492,7 +492,7 @@
       "en"
     ]
   },
-  "BN": {
+  "bn": {
     "name": "Brunei",
     "native": "Negara Brunei Darussalam",
     "phone": "673",
@@ -510,7 +510,7 @@
       "ms"
     ]
   },
-  "BO": {
+  "bo": {
     "name": "Bolivia",
     "native": "Bolivia",
     "phone": "591",
@@ -530,7 +530,7 @@
       "qu"
     ]
   },
-  "BQ": {
+  "bq": {
     "name": "Bonaire",
     "native": "Bonaire",
     "phone": "5997",
@@ -548,7 +548,7 @@
       "nl"
     ]
   },
-  "BR": {
+  "br": {
     "name": "Brazil",
     "native": "Brasil",
     "phone": "55",
@@ -566,7 +566,7 @@
       "pt"
     ]
   },
-  "BS": {
+  "bs": {
     "name": "Bahamas",
     "native": "Bahamas",
     "phone": "1242",
@@ -584,7 +584,7 @@
       "en"
     ]
   },
-  "BT": {
+  "bt": {
     "name": "Bhutan",
     "native": "ʼbrug-yul",
     "phone": "975",
@@ -602,7 +602,7 @@
       "dz"
     ]
   },
-  "BV": {
+  "bv": {
     "name": "Bouvet Island",
     "native": "Bouvetøya",
     "phone": "47",
@@ -618,7 +618,7 @@
     ],
     "languages": []
   },
-  "BW": {
+  "bw": {
     "name": "Botswana",
     "native": "Botswana",
     "phone": "267",
@@ -636,7 +636,7 @@
       "tn"
     ]
   },
-  "BY": {
+  "by": {
     "name": "Belarus",
     "native": "Белару́сь",
     "phone": "375",
@@ -655,7 +655,7 @@
       "ru"
     ]
   },
-  "BZ": {
+  "bz": {
     "name": "Belize",
     "native": "Belize",
     "phone": "501",
@@ -674,7 +674,7 @@
       "es"
     ]
   },
-  "CA": {
+  "ca": {
     "name": "Canada",
     "native": "Canada",
     "phone": "1",
@@ -693,7 +693,7 @@
       "fr"
     ]
   },
-  "CC": {
+  "cc": {
     "name": "Cocos [Keeling] Islands",
     "native": "Cocos (Keeling) Islands",
     "phone": "61",
@@ -711,7 +711,7 @@
       "en"
     ]
   },
-  "CD": {
+  "cd": {
     "name": "Democratic Republic of the Congo",
     "native": "République démocratique du Congo",
     "phone": "243",
@@ -733,7 +733,7 @@
       "lu"
     ]
   },
-  "CF": {
+  "cf": {
     "name": "Central African Republic",
     "native": "Ködörösêse tî Bêafrîka",
     "phone": "236",
@@ -752,7 +752,7 @@
       "sg"
     ]
   },
-  "CG": {
+  "cg": {
     "name": "Republic of the Congo",
     "native": "République du Congo",
     "phone": "242",
@@ -771,7 +771,7 @@
       "ln"
     ]
   },
-  "CH": {
+  "ch": {
     "name": "Switzerland",
     "native": "Schweiz",
     "phone": "41",
@@ -791,7 +791,7 @@
       "it"
     ]
   },
-  "CI": {
+  "ci": {
     "name": "Ivory Coast",
     "native": "Côte d'Ivoire",
     "phone": "225",
@@ -809,7 +809,7 @@
       "fr"
     ]
   },
-  "CK": {
+  "ck": {
     "name": "Cook Islands",
     "native": "Cook Islands",
     "phone": "682",
@@ -827,7 +827,7 @@
       "en"
     ]
   },
-  "CL": {
+  "cl": {
     "name": "Chile",
     "native": "Chile",
     "phone": "56",
@@ -845,7 +845,7 @@
       "es"
     ]
   },
-  "CM": {
+  "cm": {
     "name": "Cameroon",
     "native": "Cameroon",
     "phone": "237",
@@ -864,7 +864,7 @@
       "fr"
     ]
   },
-  "CN": {
+  "cn": {
     "name": "China",
     "native": "中国",
     "phone": "86",
@@ -882,7 +882,7 @@
       "zh"
     ]
   },
-  "CO": {
+  "co": {
     "name": "Colombia",
     "native": "Colombia",
     "phone": "57",
@@ -900,7 +900,7 @@
       "es"
     ]
   },
-  "CR": {
+  "cr": {
     "name": "Costa Rica",
     "native": "Costa Rica",
     "phone": "506",
@@ -918,7 +918,7 @@
       "es"
     ]
   },
-  "CU": {
+  "cu": {
     "name": "Cuba",
     "native": "Cuba",
     "phone": "53",
@@ -936,7 +936,7 @@
       "es"
     ]
   },
-  "CV": {
+  "cv": {
     "name": "Cape Verde",
     "native": "Cabo Verde",
     "phone": "238",
@@ -954,7 +954,7 @@
       "pt"
     ]
   },
-  "CW": {
+  "cw": {
     "name": "Curacao",
     "native": "Curaçao",
     "phone": "5999",
@@ -974,7 +974,7 @@
       "en"
     ]
   },
-  "CX": {
+  "cx": {
     "name": "Christmas Island",
     "native": "Christmas Island",
     "phone": "61",
@@ -992,7 +992,7 @@
       "en"
     ]
   },
-  "CY": {
+  "cy": {
     "name": "Cyprus",
     "native": "Κύπρος",
     "phone": "357",
@@ -1012,7 +1012,7 @@
       "hy"
     ]
   },
-  "CZ": {
+  "cz": {
     "name": "Czech Republic",
     "native": "Česká republika",
     "phone": "420",
@@ -1031,7 +1031,7 @@
       "sk"
     ]
   },
-  "DE": {
+  "de": {
     "name": "Germany",
     "native": "Deutschland",
     "phone": "49",
@@ -1049,7 +1049,7 @@
       "de"
     ]
   },
-  "DJ": {
+  "dj": {
     "name": "Djibouti",
     "native": "Djibouti",
     "phone": "253",
@@ -1068,7 +1068,7 @@
       "ar"
     ]
   },
-  "DK": {
+  "dk": {
     "name": "Denmark",
     "native": "Danmark",
     "phone": "45",
@@ -1086,7 +1086,7 @@
       "da"
     ]
   },
-  "DM": {
+  "dm": {
     "name": "Dominica",
     "native": "Dominica",
     "phone": "1767",
@@ -1104,7 +1104,7 @@
       "en"
     ]
   },
-  "DO": {
+  "do": {
     "name": "Dominican Republic",
     "native": "República Dominicana",
     "phone": "1809,1829,1849",
@@ -1121,7 +1121,7 @@
       "es"
     ]
   },
-  "DZ": {
+  "dz": {
     "name": "Algeria",
     "native": "الجزائر",
     "phone": "213",
@@ -1139,7 +1139,7 @@
       "ar"
     ]
   },
-  "EC": {
+  "ec": {
     "name": "Ecuador",
     "native": "Ecuador",
     "phone": "593",
@@ -1157,7 +1157,7 @@
       "es"
     ]
   },
-  "EE": {
+  "ee": {
     "name": "Estonia",
     "native": "Eesti",
     "phone": "372",
@@ -1175,7 +1175,7 @@
       "et"
     ]
   },
-  "EG": {
+  "eg": {
     "name": "Egypt",
     "native": "مصر‎",
     "phone": "20",
@@ -1193,7 +1193,7 @@
       "ar"
     ]
   },
-  "EH": {
+  "eh": {
     "name": "Western Sahara",
     "native": "الصحراء الغربية",
     "phone": "212",
@@ -1210,7 +1210,7 @@
       "es"
     ]
   },
-  "ER": {
+  "er": {
     "name": "Eritrea",
     "native": "ኤርትራ",
     "phone": "291",
@@ -1230,7 +1230,7 @@
       "en"
     ]
   },
-  "ES": {
+  "es": {
     "name": "Spain",
     "native": "España",
     "phone": "34",
@@ -1252,7 +1252,7 @@
       "oc"
     ]
   },
-  "ET": {
+  "et": {
     "name": "Ethiopia",
     "native": "ኢትዮጵያ",
     "phone": "251",
@@ -1270,7 +1270,7 @@
       "am"
     ]
   },
-  "FI": {
+  "fi": {
     "name": "Finland",
     "native": "Suomi",
     "phone": "358",
@@ -1289,7 +1289,7 @@
       "sv"
     ]
   },
-  "FJ": {
+  "fj": {
     "name": "Fiji",
     "native": "Fiji",
     "phone": "679",
@@ -1310,7 +1310,7 @@
       "ur"
     ]
   },
-  "FK": {
+  "fk": {
     "name": "Falkland Islands",
     "native": "Falkland Islands",
     "phone": "500",
@@ -1328,7 +1328,7 @@
       "en"
     ]
   },
-  "FM": {
+  "fm": {
     "name": "Micronesia",
     "native": "Micronesia",
     "phone": "691",
@@ -1346,7 +1346,7 @@
       "en"
     ]
   },
-  "FO": {
+  "fo": {
     "name": "Faroe Islands",
     "native": "Føroyar",
     "phone": "298",
@@ -1364,7 +1364,7 @@
       "fo"
     ]
   },
-  "FR": {
+  "fr": {
     "name": "France",
     "native": "France",
     "phone": "33",
@@ -1382,7 +1382,7 @@
       "fr"
     ]
   },
-  "GA": {
+  "ga": {
     "name": "Gabon",
     "native": "Gabon",
     "phone": "241",
@@ -1400,7 +1400,7 @@
       "fr"
     ]
   },
-  "GB": {
+  "gb": {
     "name": "United Kingdom",
     "native": "United Kingdom",
     "phone": "44",
@@ -1418,7 +1418,7 @@
       "en"
     ]
   },
-  "GD": {
+  "gd": {
     "name": "Grenada",
     "native": "Grenada",
     "phone": "1473",
@@ -1436,7 +1436,7 @@
       "en"
     ]
   },
-  "GE": {
+  "ge": {
     "name": "Georgia",
     "native": "საქართველო",
     "phone": "995",
@@ -1454,7 +1454,7 @@
       "ka"
     ]
   },
-  "GF": {
+  "gf": {
     "name": "French Guiana",
     "native": "Guyane française",
     "phone": "594",
@@ -1472,7 +1472,7 @@
       "fr"
     ]
   },
-  "GG": {
+  "gg": {
     "name": "Guernsey",
     "native": "Guernsey",
     "phone": "44",
@@ -1491,7 +1491,7 @@
       "fr"
     ]
   },
-  "GH": {
+  "gh": {
     "name": "Ghana",
     "native": "Ghana",
     "phone": "233",
@@ -1509,7 +1509,7 @@
       "en"
     ]
   },
-  "GI": {
+  "gi": {
     "name": "Gibraltar",
     "native": "Gibraltar",
     "phone": "350",
@@ -1527,7 +1527,7 @@
       "en"
     ]
   },
-  "GL": {
+  "gl": {
     "name": "Greenland",
     "native": "Kalaallit Nunaat",
     "phone": "299",
@@ -1545,7 +1545,7 @@
       "kl"
     ]
   },
-  "GM": {
+  "gm": {
     "name": "Gambia",
     "native": "Gambia",
     "phone": "220",
@@ -1563,7 +1563,7 @@
       "en"
     ]
   },
-  "GN": {
+  "gn": {
     "name": "Guinea",
     "native": "Guinée",
     "phone": "224",
@@ -1582,7 +1582,7 @@
       "ff"
     ]
   },
-  "GP": {
+  "gp": {
     "name": "Guadeloupe",
     "native": "Guadeloupe",
     "phone": "590",
@@ -1600,7 +1600,7 @@
       "fr"
     ]
   },
-  "GQ": {
+  "gq": {
     "name": "Equatorial Guinea",
     "native": "Guinea Ecuatorial",
     "phone": "240",
@@ -1619,7 +1619,7 @@
       "fr"
     ]
   },
-  "GR": {
+  "gr": {
     "name": "Greece",
     "native": "Ελλάδα",
     "phone": "30",
@@ -1637,7 +1637,7 @@
       "el"
     ]
   },
-  "GS": {
+  "gs": {
     "name": "South Georgia and the South Sandwich Islands",
     "native": "South Georgia",
     "phone": "500",
@@ -1655,7 +1655,7 @@
       "en"
     ]
   },
-  "GT": {
+  "gt": {
     "name": "Guatemala",
     "native": "Guatemala",
     "phone": "502",
@@ -1673,7 +1673,7 @@
       "es"
     ]
   },
-  "GU": {
+  "gu": {
     "name": "Guam",
     "native": "Guam",
     "phone": "1671",
@@ -1693,7 +1693,7 @@
       "es"
     ]
   },
-  "GW": {
+  "gw": {
     "name": "Guinea-Bissau",
     "native": "Guiné-Bissau",
     "phone": "245",
@@ -1711,7 +1711,7 @@
       "pt"
     ]
   },
-  "GY": {
+  "gy": {
     "name": "Guyana",
     "native": "Guyana",
     "phone": "592",
@@ -1729,7 +1729,7 @@
       "en"
     ]
   },
-  "HK": {
+  "hk": {
     "name": "Hong Kong",
     "native": "香港",
     "phone": "852",
@@ -1748,7 +1748,7 @@
       "en"
     ]
   },
-  "HM": {
+  "hm": {
     "name": "Heard Island and McDonald Islands",
     "native": "Heard Island and McDonald Islands",
     "phone": "61",
@@ -1766,7 +1766,7 @@
       "en"
     ]
   },
-  "HN": {
+  "hn": {
     "name": "Honduras",
     "native": "Honduras",
     "phone": "504",
@@ -1784,7 +1784,7 @@
       "es"
     ]
   },
-  "HR": {
+  "hr": {
     "name": "Croatia",
     "native": "Hrvatska",
     "phone": "385",
@@ -1802,7 +1802,7 @@
       "hr"
     ]
   },
-  "HT": {
+  "ht": {
     "name": "Haiti",
     "native": "Haïti",
     "phone": "509",
@@ -1821,7 +1821,7 @@
       "ht"
     ]
   },
-  "HU": {
+  "hu": {
     "name": "Hungary",
     "native": "Magyarország",
     "phone": "36",
@@ -1839,7 +1839,7 @@
       "hu"
     ]
   },
-  "ID": {
+  "id": {
     "name": "Indonesia",
     "native": "Indonesia",
     "phone": "62",
@@ -1857,7 +1857,7 @@
       "id"
     ]
   },
-  "IE": {
+  "ie": {
     "name": "Ireland",
     "native": "Éire",
     "phone": "353",
@@ -1876,7 +1876,7 @@
       "en"
     ]
   },
-  "IL": {
+  "il": {
     "name": "Israel",
     "native": "יִשְׂרָאֵל",
     "phone": "972",
@@ -1895,7 +1895,7 @@
       "ar"
     ]
   },
-  "IM": {
+  "im": {
     "name": "Isle of Man",
     "native": "Isle of Man",
     "phone": "44",
@@ -1914,7 +1914,7 @@
       "gv"
     ]
   },
-  "IN": {
+  "in": {
     "name": "India",
     "native": "भारत",
     "phone": "91",
@@ -1933,7 +1933,7 @@
       "en"
     ]
   },
-  "IO": {
+  "io": {
     "name": "British Indian Ocean Territory",
     "native": "British Indian Ocean Territory",
     "phone": "246",
@@ -1951,7 +1951,7 @@
       "en"
     ]
   },
-  "IQ": {
+  "iq": {
     "name": "Iraq",
     "native": "العراق",
     "phone": "964",
@@ -1970,7 +1970,7 @@
       "ku"
     ]
   },
-  "IR": {
+  "ir": {
     "name": "Iran",
     "native": "ایران",
     "phone": "98",
@@ -1988,7 +1988,7 @@
       "fa"
     ]
   },
-  "IS": {
+  "is": {
     "name": "Iceland",
     "native": "Ísland",
     "phone": "354",
@@ -2006,7 +2006,7 @@
       "is"
     ]
   },
-  "IT": {
+  "it": {
     "name": "Italy",
     "native": "Italia",
     "phone": "39",
@@ -2024,7 +2024,7 @@
       "it"
     ]
   },
-  "JE": {
+  "je": {
     "name": "Jersey",
     "native": "Jersey",
     "phone": "44",
@@ -2043,7 +2043,7 @@
       "fr"
     ]
   },
-  "JM": {
+  "jm": {
     "name": "Jamaica",
     "native": "Jamaica",
     "phone": "1876",
@@ -2061,7 +2061,7 @@
       "en"
     ]
   },
-  "JO": {
+  "jo": {
     "name": "Jordan",
     "native": "الأردن",
     "phone": "962",
@@ -2079,7 +2079,7 @@
       "ar"
     ]
   },
-  "JP": {
+  "jp": {
     "name": "Japan",
     "native": "日本",
     "phone": "81",
@@ -2097,7 +2097,7 @@
       "ja"
     ]
   },
-  "KE": {
+  "ke": {
     "name": "Kenya",
     "native": "Kenya",
     "phone": "254",
@@ -2116,7 +2116,7 @@
       "sw"
     ]
   },
-  "KG": {
+  "kg": {
     "name": "Kyrgyzstan",
     "native": "Кыргызстан",
     "phone": "996",
@@ -2135,7 +2135,7 @@
       "ru"
     ]
   },
-  "KH": {
+  "kh": {
     "name": "Cambodia",
     "native": "Kâmpŭchéa",
     "phone": "855",
@@ -2153,7 +2153,7 @@
       "km"
     ]
   },
-  "KI": {
+  "ki": {
     "name": "Kiribati",
     "native": "Kiribati",
     "phone": "686",
@@ -2171,7 +2171,7 @@
       "en"
     ]
   },
-  "KM": {
+  "km": {
     "name": "Comoros",
     "native": "Komori",
     "phone": "269",
@@ -2190,7 +2190,7 @@
       "fr"
     ]
   },
-  "KN": {
+  "kn": {
     "name": "Saint Kitts and Nevis",
     "native": "Saint Kitts and Nevis",
     "phone": "1869",
@@ -2208,7 +2208,7 @@
       "en"
     ]
   },
-  "KP": {
+  "kp": {
     "name": "North Korea",
     "native": "북한",
     "phone": "850",
@@ -2226,7 +2226,7 @@
       "ko"
     ]
   },
-  "KR": {
+  "kr": {
     "name": "South Korea",
     "native": "대한민국",
     "phone": "82",
@@ -2244,7 +2244,7 @@
       "ko"
     ]
   },
-  "KW": {
+  "kw": {
     "name": "Kuwait",
     "native": "الكويت",
     "phone": "965",
@@ -2262,7 +2262,7 @@
       "ar"
     ]
   },
-  "KY": {
+  "ky": {
     "name": "Cayman Islands",
     "native": "Cayman Islands",
     "phone": "1345",
@@ -2279,7 +2279,7 @@
       "en"
     ]
   },
-  "KZ": {
+  "kz": {
     "name": "Kazakhstan",
     "native": "Қазақстан",
     "phone": "76,77",
@@ -2298,7 +2298,7 @@
       "ru"
     ]
   },
-  "LA": {
+  "la": {
     "name": "Laos",
     "native": "ສປປລາວ",
     "phone": "856",
@@ -2316,7 +2316,7 @@
       "lo"
     ]
   },
-  "LB": {
+  "lb": {
     "name": "Lebanon",
     "native": "لبنان",
     "phone": "961",
@@ -2335,7 +2335,7 @@
       "fr"
     ]
   },
-  "LC": {
+  "lc": {
     "name": "Saint Lucia",
     "native": "Saint Lucia",
     "phone": "1758",
@@ -2353,7 +2353,7 @@
       "en"
     ]
   },
-  "LI": {
+  "li": {
     "name": "Liechtenstein",
     "native": "Liechtenstein",
     "phone": "423",
@@ -2371,7 +2371,7 @@
       "de"
     ]
   },
-  "LK": {
+  "lk": {
     "name": "Sri Lanka",
     "native": "śrī laṃkāva",
     "phone": "94",
@@ -2390,7 +2390,7 @@
       "ta"
     ]
   },
-  "LR": {
+  "lr": {
     "name": "Liberia",
     "native": "Liberia",
     "phone": "231",
@@ -2407,7 +2407,7 @@
       "en"
     ]
   },
-  "LS": {
+  "ls": {
     "name": "Lesotho",
     "native": "Lesotho",
     "phone": "266",
@@ -2426,7 +2426,7 @@
       "st"
     ]
   },
-  "LT": {
+  "lt": {
     "name": "Lithuania",
     "native": "Lietuva",
     "phone": "370",
@@ -2444,7 +2444,7 @@
       "lt"
     ]
   },
-  "LU": {
+  "lu": {
     "name": "Luxembourg",
     "native": "Luxembourg",
     "phone": "352",
@@ -2464,7 +2464,7 @@
       "lb"
     ]
   },
-  "LV": {
+  "lv": {
     "name": "Latvia",
     "native": "Latvija",
     "phone": "371",
@@ -2482,7 +2482,7 @@
       "lv"
     ]
   },
-  "LY": {
+  "ly": {
     "name": "Libya",
     "native": "‏ليبيا",
     "phone": "218",
@@ -2500,7 +2500,7 @@
       "ar"
     ]
   },
-  "MA": {
+  "ma": {
     "name": "Morocco",
     "native": "المغرب",
     "phone": "212",
@@ -2518,7 +2518,7 @@
       "ar"
     ]
   },
-  "MC": {
+  "mc": {
     "name": "Monaco",
     "native": "Monaco",
     "phone": "377",
@@ -2536,7 +2536,7 @@
       "fr"
     ]
   },
-  "MD": {
+  "md": {
     "name": "Moldova",
     "native": "Moldova",
     "phone": "373",
@@ -2554,7 +2554,7 @@
       "ro"
     ]
   },
-  "ME": {
+  "me": {
     "name": "Montenegro",
     "native": "Црна Гора",
     "phone": "382",
@@ -2575,7 +2575,7 @@
       "hr"
     ]
   },
-  "MF": {
+  "mf": {
     "name": "Saint Martin",
     "native": "Saint-Martin",
     "phone": "590",
@@ -2595,7 +2595,7 @@
       "nl"
     ]
   },
-  "MG": {
+  "mg": {
     "name": "Madagascar",
     "native": "Madagasikara",
     "phone": "261",
@@ -2614,7 +2614,7 @@
       "mg"
     ]
   },
-  "MH": {
+  "mh": {
     "name": "Marshall Islands",
     "native": "M̧ajeļ",
     "phone": "692",
@@ -2633,7 +2633,7 @@
       "mh"
     ]
   },
-  "MK": {
+  "mk": {
     "name": "Macedonia",
     "native": "Македонија",
     "phone": "389",
@@ -2651,7 +2651,7 @@
       "mk"
     ]
   },
-  "ML": {
+  "ml": {
     "name": "Mali",
     "native": "Mali",
     "phone": "223",
@@ -2669,7 +2669,7 @@
       "fr"
     ]
   },
-  "MM": {
+  "mm": {
     "name": "Myanmar [Burma]",
     "native": "Myanma",
     "phone": "95",
@@ -2687,7 +2687,7 @@
       "my"
     ]
   },
-  "MN": {
+  "mn": {
     "name": "Mongolia",
     "native": "Монгол улс",
     "phone": "976",
@@ -2705,7 +2705,7 @@
       "mn"
     ]
   },
-  "MO": {
+  "mo": {
     "name": "Macao",
     "native": "澳門",
     "phone": "853",
@@ -2724,7 +2724,7 @@
       "pt"
     ]
   },
-  "MP": {
+  "mp": {
     "name": "Northern Mariana Islands",
     "native": "Northern Mariana Islands",
     "phone": "1670",
@@ -2743,7 +2743,7 @@
       "ch"
     ]
   },
-  "MQ": {
+  "mq": {
     "name": "Martinique",
     "native": "Martinique",
     "phone": "596",
@@ -2761,7 +2761,7 @@
       "fr"
     ]
   },
-  "MR": {
+  "mr": {
     "name": "Mauritania",
     "native": "موريتانيا",
     "phone": "222",
@@ -2779,7 +2779,7 @@
       "ar"
     ]
   },
-  "MS": {
+  "ms": {
     "name": "Montserrat",
     "native": "Montserrat",
     "phone": "1664",
@@ -2797,7 +2797,7 @@
       "en"
     ]
   },
-  "MT": {
+  "mt": {
     "name": "Malta",
     "native": "Malta",
     "phone": "356",
@@ -2816,7 +2816,7 @@
       "en"
     ]
   },
-  "MU": {
+  "mu": {
     "name": "Mauritius",
     "native": "Maurice",
     "phone": "230",
@@ -2834,7 +2834,7 @@
       "en"
     ]
   },
-  "MV": {
+  "mv": {
     "name": "Maldives",
     "native": "Maldives",
     "phone": "960",
@@ -2852,7 +2852,7 @@
       "dv"
     ]
   },
-  "MW": {
+  "mw": {
     "name": "Malawi",
     "native": "Malawi",
     "phone": "265",
@@ -2871,7 +2871,7 @@
       "ny"
     ]
   },
-  "MX": {
+  "mx": {
     "name": "Mexico",
     "native": "México",
     "phone": "52",
@@ -2889,7 +2889,7 @@
       "es"
     ]
   },
-  "MY": {
+  "my": {
     "name": "Malaysia",
     "native": "Malaysia",
     "phone": "60",
@@ -2905,7 +2905,7 @@
     ],
     "languages": []
   },
-  "MZ": {
+  "mz": {
     "name": "Mozambique",
     "native": "Moçambique",
     "phone": "258",
@@ -2923,7 +2923,7 @@
       "pt"
     ]
   },
-  "NA": {
+  "na": {
     "name": "Namibia",
     "native": "Namibia",
     "phone": "264",
@@ -2942,7 +2942,7 @@
       "af"
     ]
   },
-  "NC": {
+  "nc": {
     "name": "New Caledonia",
     "native": "Nouvelle-Calédonie",
     "phone": "687",
@@ -2960,7 +2960,7 @@
       "fr"
     ]
   },
-  "NE": {
+  "ne": {
     "name": "Niger",
     "native": "Niger",
     "phone": "227",
@@ -2978,7 +2978,7 @@
       "fr"
     ]
   },
-  "NF": {
+  "nf": {
     "name": "Norfolk Island",
     "native": "Norfolk Island",
     "phone": "672",
@@ -2996,7 +2996,7 @@
       "en"
     ]
   },
-  "NG": {
+  "ng": {
     "name": "Nigeria",
     "native": "Nigeria",
     "phone": "234",
@@ -3014,7 +3014,7 @@
       "en"
     ]
   },
-  "NI": {
+  "ni": {
     "name": "Nicaragua",
     "native": "Nicaragua",
     "phone": "505",
@@ -3032,7 +3032,7 @@
       "es"
     ]
   },
-  "NL": {
+  "nl": {
     "name": "Netherlands",
     "native": "Nederland",
     "phone": "31",
@@ -3050,7 +3050,7 @@
       "nl"
     ]
   },
-  "NO": {
+  "no": {
     "name": "Norway",
     "native": "Norge",
     "phone": "47",
@@ -3070,7 +3070,7 @@
       "nn"
     ]
   },
-  "NP": {
+  "np": {
     "name": "Nepal",
     "native": "नपल",
     "phone": "977",
@@ -3088,7 +3088,7 @@
       "ne"
     ]
   },
-  "NR": {
+  "nr": {
     "name": "Nauru",
     "native": "Nauru",
     "phone": "674",
@@ -3107,7 +3107,7 @@
       "na"
     ]
   },
-  "NU": {
+  "nu": {
     "name": "Niue",
     "native": "Niuē",
     "phone": "683",
@@ -3125,7 +3125,7 @@
       "en"
     ]
   },
-  "NZ": {
+  "nz": {
     "name": "New Zealand",
     "native": "New Zealand",
     "phone": "64",
@@ -3144,7 +3144,7 @@
       "mi"
     ]
   },
-  "OM": {
+  "om": {
     "name": "Oman",
     "native": "عمان",
     "phone": "968",
@@ -3162,7 +3162,7 @@
       "ar"
     ]
   },
-  "PA": {
+  "pa": {
     "name": "Panama",
     "native": "Panamá",
     "phone": "507",
@@ -3180,7 +3180,7 @@
       "es"
     ]
   },
-  "PE": {
+  "pe": {
     "name": "Peru",
     "native": "Perú",
     "phone": "51",
@@ -3198,7 +3198,7 @@
       "es"
     ]
   },
-  "PF": {
+  "pf": {
     "name": "French Polynesia",
     "native": "Polynésie française",
     "phone": "689",
@@ -3216,7 +3216,7 @@
       "fr"
     ]
   },
-  "PG": {
+  "pg": {
     "name": "Papua New Guinea",
     "native": "Papua Niugini",
     "phone": "675",
@@ -3234,7 +3234,7 @@
       "en"
     ]
   },
-  "PH": {
+  "ph": {
     "name": "Philippines",
     "native": "Pilipinas",
     "phone": "63",
@@ -3252,7 +3252,7 @@
       "en"
     ]
   },
-  "PK": {
+  "pk": {
     "name": "Pakistan",
     "native": "Pakistan",
     "phone": "92",
@@ -3271,7 +3271,7 @@
       "ur"
     ]
   },
-  "PL": {
+  "pl": {
     "name": "Poland",
     "native": "Polska",
     "phone": "48",
@@ -3289,7 +3289,7 @@
       "pl"
     ]
   },
-  "PM": {
+  "pm": {
     "name": "Saint Pierre and Miquelon",
     "native": "Saint-Pierre-et-Miquelon",
     "phone": "508",
@@ -3307,7 +3307,7 @@
       "fr"
     ]
   },
-  "PN": {
+  "pn": {
     "name": "Pitcairn Islands",
     "native": "Pitcairn Islands",
     "phone": "64",
@@ -3325,7 +3325,7 @@
       "en"
     ]
   },
-  "PR": {
+  "pr": {
     "name": "Puerto Rico",
     "native": "Puerto Rico",
     "phone": "1787,1939",
@@ -3344,7 +3344,7 @@
       "en"
     ]
   },
-  "PS": {
+  "ps": {
     "name": "Palestine",
     "native": "فلسطين",
     "phone": "970",
@@ -3362,7 +3362,7 @@
       "ar"
     ]
   },
-  "PT": {
+  "pt": {
     "name": "Portugal",
     "native": "Portugal",
     "phone": "351",
@@ -3380,7 +3380,7 @@
       "pt"
     ]
   },
-  "PW": {
+  "pw": {
     "name": "Palau",
     "native": "Palau",
     "phone": "680",
@@ -3398,7 +3398,7 @@
       "en"
     ]
   },
-  "PY": {
+  "py": {
     "name": "Paraguay",
     "native": "Paraguay",
     "phone": "595",
@@ -3417,7 +3417,7 @@
       "gn"
     ]
   },
-  "QA": {
+  "qa": {
     "name": "Qatar",
     "native": "قطر",
     "phone": "974",
@@ -3435,7 +3435,7 @@
       "ar"
     ]
   },
-  "RE": {
+  "re": {
     "name": "Réunion",
     "native": "La Réunion",
     "phone": "262",
@@ -3453,7 +3453,7 @@
       "fr"
     ]
   },
-  "RO": {
+  "ro": {
     "name": "Romania",
     "native": "România",
     "phone": "40",
@@ -3471,7 +3471,7 @@
       "ro"
     ]
   },
-  "RS": {
+  "rs": {
     "name": "Serbia",
     "native": "Србија",
     "phone": "381",
@@ -3489,7 +3489,7 @@
       "sr"
     ]
   },
-  "RU": {
+  "ru": {
     "name": "Russia",
     "native": "Россия",
     "phone": "7",
@@ -3507,7 +3507,7 @@
       "ru"
     ]
   },
-  "RW": {
+  "rw": {
     "name": "Rwanda",
     "native": "Rwanda",
     "phone": "250",
@@ -3527,7 +3527,7 @@
       "fr"
     ]
   },
-  "SA": {
+  "sa": {
     "name": "Saudi Arabia",
     "native": "العربية السعودية",
     "phone": "966",
@@ -3545,7 +3545,7 @@
       "ar"
     ]
   },
-  "SB": {
+  "sb": {
     "name": "Solomon Islands",
     "native": "Solomon Islands",
     "phone": "677",
@@ -3563,7 +3563,7 @@
       "en"
     ]
   },
-  "SC": {
+  "sc": {
     "name": "Seychelles",
     "native": "Seychelles",
     "phone": "248",
@@ -3582,7 +3582,7 @@
       "en"
     ]
   },
-  "SD": {
+  "sd": {
     "name": "Sudan",
     "native": "السودان",
     "phone": "249",
@@ -3601,7 +3601,7 @@
       "en"
     ]
   },
-  "SE": {
+  "se": {
     "name": "Sweden",
     "native": "Sverige",
     "phone": "46",
@@ -3619,7 +3619,7 @@
       "sv"
     ]
   },
-  "SG": {
+  "sg": {
     "name": "Singapore",
     "native": "Singapore",
     "phone": "65",
@@ -3640,7 +3640,7 @@
       "zh"
     ]
   },
-  "SH": {
+  "sh": {
     "name": "Saint Helena",
     "native": "Saint Helena",
     "phone": "290",
@@ -3658,7 +3658,7 @@
       "en"
     ]
   },
-  "SI": {
+  "si": {
     "name": "Slovenia",
     "native": "Slovenija",
     "phone": "386",
@@ -3676,7 +3676,7 @@
       "sl"
     ]
   },
-  "SJ": {
+  "sj": {
     "name": "Svalbard and Jan Mayen",
     "native": "Svalbard og Jan Mayen",
     "phone": "4779",
@@ -3694,7 +3694,7 @@
       "no"
     ]
   },
-  "SK": {
+  "sk": {
     "name": "Slovakia",
     "native": "Slovensko",
     "phone": "421",
@@ -3712,7 +3712,7 @@
       "sk"
     ]
   },
-  "SL": {
+  "sl": {
     "name": "Sierra Leone",
     "native": "Sierra Leone",
     "phone": "232",
@@ -3730,7 +3730,7 @@
       "en"
     ]
   },
-  "SM": {
+  "sm": {
     "name": "San Marino",
     "native": "San Marino",
     "phone": "378",
@@ -3748,7 +3748,7 @@
       "it"
     ]
   },
-  "SN": {
+  "sn": {
     "name": "Senegal",
     "native": "Sénégal",
     "phone": "221",
@@ -3766,7 +3766,7 @@
       "fr"
     ]
   },
-  "SO": {
+  "so": {
     "name": "Somalia",
     "native": "Soomaaliya",
     "phone": "252",
@@ -3785,7 +3785,7 @@
       "ar"
     ]
   },
-  "SR": {
+  "sr": {
     "name": "Suriname",
     "native": "Suriname",
     "phone": "597",
@@ -3803,7 +3803,7 @@
       "nl"
     ]
   },
-  "SS": {
+  "ss": {
     "name": "South Sudan",
     "native": "South Sudan",
     "phone": "211",
@@ -3821,7 +3821,7 @@
       "en"
     ]
   },
-  "ST": {
+  "st": {
     "name": "São Tomé and Príncipe",
     "native": "São Tomé e Príncipe",
     "phone": "239",
@@ -3839,7 +3839,7 @@
       "pt"
     ]
   },
-  "SV": {
+  "sv": {
     "name": "El Salvador",
     "native": "El Salvador",
     "phone": "503",
@@ -3857,7 +3857,7 @@
       "es"
     ]
   },
-  "SX": {
+  "sx": {
     "name": "Sint Maarten",
     "native": "Sint Maarten",
     "phone": "1721",
@@ -3875,7 +3875,7 @@
       "en"
     ]
   },
-  "SY": {
+  "sy": {
     "name": "Syria",
     "native": "سوريا",
     "phone": "963",
@@ -3893,7 +3893,7 @@
       "ar"
     ]
   },
-  "SZ": {
+  "sz": {
     "name": "Swaziland",
     "native": "Swaziland",
     "phone": "268",
@@ -3912,7 +3912,7 @@
       "ss"
     ]
   },
-  "TC": {
+  "tc": {
     "name": "Turks and Caicos Islands",
     "native": "Turks and Caicos Islands",
     "phone": "1649",
@@ -3930,7 +3930,7 @@
       "en"
     ]
   },
-  "TD": {
+  "td": {
     "name": "Chad",
     "native": "Tchad",
     "phone": "235",
@@ -3949,7 +3949,7 @@
       "ar"
     ]
   },
-  "TF": {
+  "tf": {
     "name": "French Southern Territories",
     "native": "Territoire des Terres australes et antarctiques fr",
     "phone": "262",
@@ -3967,7 +3967,7 @@
       "fr"
     ]
   },
-  "TG": {
+  "tg": {
     "name": "Togo",
     "native": "Togo",
     "phone": "228",
@@ -3985,7 +3985,7 @@
       "fr"
     ]
   },
-  "TH": {
+  "th": {
     "name": "Thailand",
     "native": "ประเทศไทย",
     "phone": "66",
@@ -4003,7 +4003,7 @@
       "th"
     ]
   },
-  "TJ": {
+  "tj": {
     "name": "Tajikistan",
     "native": "Тоҷикистон",
     "phone": "992",
@@ -4022,7 +4022,7 @@
       "ru"
     ]
   },
-  "TK": {
+  "tk": {
     "name": "Tokelau",
     "native": "Tokelau",
     "phone": "690",
@@ -4039,7 +4039,7 @@
       "en"
     ]
   },
-  "TL": {
+  "tl": {
     "name": "East Timor",
     "native": "Timor-Leste",
     "phone": "670",
@@ -4057,7 +4057,7 @@
       "pt"
     ]
   },
-  "TM": {
+  "tm": {
     "name": "Turkmenistan",
     "native": "Türkmenistan",
     "phone": "993",
@@ -4076,7 +4076,7 @@
       "ru"
     ]
   },
-  "TN": {
+  "tn": {
     "name": "Tunisia",
     "native": "تونس",
     "phone": "216",
@@ -4094,7 +4094,7 @@
       "ar"
     ]
   },
-  "TO": {
+  "to": {
     "name": "Tonga",
     "native": "Tonga",
     "phone": "676",
@@ -4113,7 +4113,7 @@
       "to"
     ]
   },
-  "TR": {
+  "tr": {
     "name": "Turkey",
     "native": "Türkiye",
     "phone": "90",
@@ -4131,7 +4131,7 @@
       "tr"
     ]
   },
-  "TT": {
+  "tt": {
     "name": "Trinidad and Tobago",
     "native": "Trinidad and Tobago",
     "phone": "1868",
@@ -4149,7 +4149,7 @@
       "en"
     ]
   },
-  "TV": {
+  "tv": {
     "name": "Tuvalu",
     "native": "Tuvalu",
     "phone": "688",
@@ -4167,7 +4167,7 @@
       "en"
     ]
   },
-  "TW": {
+  "tw": {
     "name": "Taiwan",
     "native": "臺灣",
     "phone": "886",
@@ -4185,7 +4185,7 @@
       "zh"
     ]
   },
-  "TZ": {
+  "tz": {
     "name": "Tanzania",
     "native": "Tanzania",
     "phone": "255",
@@ -4204,7 +4204,7 @@
       "en"
     ]
   },
-  "UA": {
+  "ua": {
     "name": "Ukraine",
     "native": "Україна",
     "phone": "380",
@@ -4222,7 +4222,7 @@
       "uk"
     ]
   },
-  "UG": {
+  "ug": {
     "name": "Uganda",
     "native": "Uganda",
     "phone": "256",
@@ -4241,7 +4241,7 @@
       "sw"
     ]
   },
-  "UM": {
+  "um": {
     "name": "U.S. Minor Outlying Islands",
     "native": "United States Minor Outlying Islands",
     "phone": "1",
@@ -4259,7 +4259,7 @@
       "en"
     ]
   },
-  "US": {
+  "us": {
     "name": "United States",
     "native": "United States",
     "phone": "1",
@@ -4277,7 +4277,7 @@
       "en"
     ]
   },
-  "UY": {
+  "uy": {
     "name": "Uruguay",
     "native": "Uruguay",
     "phone": "598",
@@ -4295,7 +4295,7 @@
       "es"
     ]
   },
-  "UZ": {
+  "uz": {
     "name": "Uzbekistan",
     "native": "O‘zbekiston",
     "phone": "998",
@@ -4314,7 +4314,7 @@
       "ru"
     ]
   },
-  "VA": {
+  "va": {
     "name": "Vatican City",
     "native": "Vaticano",
     "phone": "39066,379",
@@ -4333,7 +4333,7 @@
       "la"
     ]
   },
-  "VC": {
+  "vc": {
     "name": "Saint Vincent and the Grenadines",
     "native": "Saint Vincent and the Grenadines",
     "phone": "1784",
@@ -4351,7 +4351,7 @@
       "en"
     ]
   },
-  "VE": {
+  "ve": {
     "name": "Venezuela",
     "native": "Venezuela",
     "phone": "58",
@@ -4369,7 +4369,7 @@
       "es"
     ]
   },
-  "VG": {
+  "vg": {
     "name": "British Virgin Islands",
     "native": "British Virgin Islands",
     "phone": "1284",
@@ -4387,7 +4387,7 @@
       "en"
     ]
   },
-  "VI": {
+  "vi": {
     "name": "U.S. Virgin Islands",
     "native": "United States Virgin Islands",
     "phone": "1340",
@@ -4405,7 +4405,7 @@
       "en"
     ]
   },
-  "VN": {
+  "vn": {
     "name": "Vietnam",
     "native": "Việt Nam",
     "phone": "84",
@@ -4423,7 +4423,7 @@
       "vi"
     ]
   },
-  "VU": {
+  "vu": {
     "name": "Vanuatu",
     "native": "Vanuatu",
     "phone": "678",
@@ -4443,7 +4443,7 @@
       "fr"
     ]
   },
-  "WF": {
+  "wf": {
     "name": "Wallis and Futuna",
     "native": "Wallis et Futuna",
     "phone": "681",
@@ -4461,7 +4461,7 @@
       "fr"
     ]
   },
-  "WS": {
+  "ws": {
     "name": "Samoa",
     "native": "Samoa",
     "phone": "685",
@@ -4480,7 +4480,7 @@
       "en"
     ]
   },
-  "XK": {
+  "xk": {
     "name": "Kosovo",
     "native": "Republika e Kosovës",
     "phone": "377,381,383,386",
@@ -4499,7 +4499,7 @@
       "sr"
     ]
   },
-  "YE": {
+  "ye": {
     "name": "Yemen",
     "native": "اليَمَن",
     "phone": "967",
@@ -4517,7 +4517,7 @@
       "ar"
     ]
   },
-  "YT": {
+  "yt": {
     "name": "Mayotte",
     "native": "Mayotte",
     "phone": "262",
@@ -4535,7 +4535,7 @@
       "fr"
     ]
   },
-  "ZA": {
+  "za": {
     "name": "South Africa",
     "native": "South Africa",
     "phone": "27",
@@ -4562,7 +4562,7 @@
       "zu"
     ]
   },
-  "ZM": {
+  "zm": {
     "name": "Zambia",
     "native": "Zambia",
     "phone": "260",
@@ -4580,7 +4580,7 @@
       "en"
     ]
   },
-  "ZW": {
+  "zw": {
     "name": "Zimbabwe",
     "native": "Zimbabwe",
     "phone": "263",
