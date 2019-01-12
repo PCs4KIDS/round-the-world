@@ -1,4 +1,6 @@
 var path = require('path');
+var CopyWebpackPlugin = require('copy-webpack-plugin')
+
 
 // Phaser webpack config
 var phaserModule = path.join(__dirname, '/node_modules/phaser-ce/');
@@ -8,7 +10,32 @@ var p2 = path.join(phaserModule, 'build/custom/p2.js');
 var phaserInput = path.join(__dirname, '/node_modules/@orange-games/phaser-input/build/phaser-input.js');
 
 
-module.exports = {
+var distOutput = {
+  output: {
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'round-the-world-game.min.js',
+    libraryTarget:'umd',
+    library: 'roundTheWorldGame',
+    umdNamedDefine: true
+  }
+}
+
+var demoConfigExtras = {
+  plugins: [
+    new CopyWebpackPlugin([
+      {from: 'assets/**/*', to: path.resolve(__dirname, 'demo/')},
+    ])
+  ],
+  output: {
+    path: path.resolve(__dirname, 'demo/lib/'),
+    filename: 'round-the-world-game.min.js',
+    libraryTarget:'umd',
+    library: 'roundTheWorldGame',
+    umdNamedDefine: true
+  }
+}
+
+var basicConfig = {
   entry: './src/index.js',
   module: {
     rules: [
@@ -37,12 +64,13 @@ module.exports = {
       'phaser-input': phaserInput,
     },
   },
-  output: {
-    path: path.resolve(__dirname, 'dist'),
-    filename: 'round-the-world-game.min.js',
-    libraryTarget:'umd',
-    library: 'roundTheWorldGame',
-    umdNamedDefine: true
-  },
   devtool: 'source-map'
-};
+}
+
+
+var distConfig = Object.assign(basicConfig, distOutput);
+var demoConfig = Object.assign(basicConfig, demoConfigExtras);
+
+module.exports = [
+  distConfig, demoConfig
+];
