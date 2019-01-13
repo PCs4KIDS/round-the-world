@@ -6,7 +6,9 @@
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "demo": "http-server demo"
+    "demo": "http-server demo",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d demo -r git@github.com:PCs4KIDS/round-the-world.git"
   },
   "repository": {
     "type": "git",
@@ -26,6 +28,7 @@
     "exports-loader": "0.7.0",
     "expose-loader": "0.7.5",
     "file-loader": "^2.0.0",
+    "gh-pages": "2.0.1",
     "http-server": "0.11.1",
     "webpack": "4.20.2",
     "webpack-cli": "^3.1.2"
