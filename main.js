@@ -1,1 +1,0 @@
-roundTheWorldGame.createGameInDiv('game-canvas');
